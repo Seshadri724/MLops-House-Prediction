@@ -9,3 +9,4 @@ joblib
 prometheus-fastapi-instrumentator
 python-multipart
 sqlite-utils
+flake8
