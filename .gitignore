@@ -18,15 +18,12 @@ venv/
 .vscode/
 
 # Data & Models
-data/
-models/
+models/*.pkl
 *.db
 mlruns/
 mlflow.db
 
 # DVC
-*.dvc
-.dvc/
 .cache/
 *.log
 
