@@ -216,3 +216,6 @@ This repo shows how to take a **simple regression task** and wrap it in **full M
 - Scalable API (FastAPI + Docker)
 - Automated pipeline (GitHub Actions)
 - Observability (logs, SQLite, Prometheus/Grafana)
+
+Project documentation
+https://drive.google.com/file/d/1AZb0ZhlfD01kw-pA2eHG2S_rkk94jEPh/view?usp=drive_link 
